@@ -13,8 +13,8 @@ body{
     position: absolute;
     font-size: 30px;
     background-color:#309C5F;
-    top: 90%;
-    left: 80%;
+    top: 110%;
+    left: 75%;
     padding: 20px 30px;
     border-radius: 20px;
     }
@@ -22,8 +22,8 @@ body{
 position: absolute;
 font-size: 30px;
 background-color: #309C5F;
-top: 90%;
-left: 90%;
+top: 110%;;
+left: 85%;
 padding: 20px 30px;
 border-radius: 20px;
 }
