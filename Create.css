@@ -1,0 +1,64 @@
+body{
+    background-color: #DFEAF0;
+}
+*{
+    margin:0;
+    padding: 0;
+    font-family: Quicksand;
+}
+
+.container{
+    width:100%;
+    height: 100%;
+}
+.title{
+    font-size: 75px;
+    width: 100%;
+    text-align: center;
+    top:15%;
+    position: absolute;
+    color: #309C5F;
+}
+.title2{
+    font-size: 30px;
+    width: 100%;
+    text-align: center;
+    top:25%;
+    position: absolute;
+    margin-top: 10px;
+    color: #309C5F;
+}
+.login{
+    font-size: 35px;
+    width: 300px;
+    height: 420px;
+    left: 20%;
+    top: 40%;
+    position: absolute;
+    color: #309C5F;
+}
+.login input[type="text"]{
+    height: 30px;
+    font-size: 30px;
+    color: #309C5F;
+}
+.login2{
+    font-size: 35px;
+    width: 400px;
+    height: 420px;
+    left: 50%;
+    top: 40%;
+    position: absolute;
+    color: #309C5F;
+}
+.login2 input[type="text"],input[type="password"]{
+    height: 30px;
+    font-size: 30px;
+}
+.container input[type="button"]{
+    position: absolute;
+    left: 570px;
+    top:75%;
+    font-size: 30px;
+    
+}
