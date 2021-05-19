@@ -78,7 +78,7 @@ body{
     border-radius: 20px;
     }
 .Button2{
-position: relative;
+position: absolute;
 font-size: 30px;
 background-color: #309C5F;
 top: 110%;
